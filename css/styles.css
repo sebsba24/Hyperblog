@@ -35,3 +35,12 @@ header #tagline
     font-weight: normal;
     font-size: 0.8rem;
 }
+
+footer 
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+}
