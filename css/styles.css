@@ -29,6 +29,11 @@ header {
     padding: 0.5rem;
 }
 
+header #logo{
+    width: 20%;
+    vertical-align: middle;
+}
+
 header #tagline
 {
     padding: 0 0 0 1rem;
@@ -43,4 +48,9 @@ footer
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
+}
+
+.post{
+    background-color: white;
+    padding: 1em;
 }
