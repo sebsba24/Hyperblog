@@ -38,9 +38,8 @@ header #tagline
 
 footer 
 {
-    width: 70%;
-    padding: 1em;
-    text-align: left;
-    border: 1px solid #ddd;
-    margin: 0 auto;
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
